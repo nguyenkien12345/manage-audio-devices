@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Micro Beta Three 2700",
+        "quantity": 10,
+        "image": "./assets/images/Micro-Beta-Three-2700.png"
+    },
+    {
+        "id": 2,
+        "name": "Micro Beta Three 280",
+        "quantity": 20,
+        "image": "./assets/images/Micro-Beta-Three-280.png"
+    },
+    {
+        "id": 3,
+        "name": "Micro Beta Three 2800",
+        "quantity": 30,
+        "image": "./assets/images/Micro-Beta-Three-2800.png"
+    },
+    {
+        "id": 4,
+        "name": "Micro Dalasta 268",
+        "quantity": 40,
+        "image": "./assets/images/Micro-Dalasta-268.png"
+    },
+    {
+        "id": 5,
+        "name": "Micro không dây Shure UGX9 II",
+        "quantity": 10,
+        "image": "./assets/images/Micro-khong-day-Shure-UGX9-II.png"
+    },
+    {
+        "id": 6,
+        "name": "Vang Số Dalasta 350",
+        "quantity": 15,
+        "image": "./assets/images/Vang-So-Dalasta-350.png"
+    },
+    {
+        "id": 7,
+        "name": "Vang Số Dalasta 3000.png",
+        "quantity": 25,
+        "image": "./assets/images/Vang-So-Dalasta-3000.png"
+    },
+    {
+        "id": 8,
+        "name": "Vang Số Dalasta DSP 680",
+        "quantity": 35,
+        "image": "./assets/images/Vang-So-Dalasta-DSP-680.png"
+    },
+    {
+        "id": 9,
+        "name": "Vang Số Dalasta X8",
+        "quantity": 45,
+        "image": "./assets/images/Vang-So-Dalasta-X8.png"
+    },
+    {
+        "id": 10,
+        "name": "Vang Số HAS DX300",
+        "quantity": 55,
+        "image": "./assets/images/Vang-So-HAS-DX300.png"
+    }
+]
