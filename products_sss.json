@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "L-Acoustics K2",
+        "quantity": 24,
+        "image": "./assets/images/K2.png",
+        "category": 1,
+        "unit": 1
+    },
+    {
+        "id": 2,
+        "name": "L-Acoustics KS28",
+        "quantity": 8,
+        "image": "./assets/images/KS28.png",
+        "category": 1,
+        "unit": 1
+    },
+    {
+        "id": 3,
+        "name": "L-Acoustics KARA",
+        "quantity": 36,
+        "image": "./assets/images/KARA.png",
+        "category": 1,
+        "unit": 1
+    },
+    {
+        "id": 4,
+        "name": "L-Acoustics SB18",
+        "quantity": 8,
+        "image": "./assets/images/SB18.png",
+        "category": 1,
+        "unit": 1
+    },
+    {
+        "id": 5,
+        "name": "L-Acoustics X12",
+        "quantity": 16,
+        "image": "./assets/images/X12.png",
+        "category": 1,
+        "unit": 1
+    },
+    {
+        "id": 6,
+        "name": "Avid S6L 24D",
+        "quantity": 1,
+        "image": "./assets/images/24D.png",
+        "category": 3,
+        "unit": 1
+    },
+    {
+        "id": 7,
+        "name": "Avid E192",
+        "quantity": 1,
+        "image": "./assets/images/E192.png",
+        "category": 3,
+        "unit": 1
+    },
+    {
+        "id": 8,
+        "name": "Avid Stage 64",
+        "quantity": 1,
+        "image": "./assets/images/Stage64.png",
+        "category": 3,
+        "unit": 1
+    },
+    {
+        "id": 9,
+        "name": "Sennheiser SKM6000",
+        "quantity": 5,
+        "image": "./assets/images/EM6000.png",
+        "category": 4,
+        "unit": 2
+    },
+    {
+        "id": 10,
+        "name": "DiGiCo SD8",
+        "quantity": 2,
+        "image": "./assets/images/SD8.jpg",
+        "category": 3,
+        "unit": 1
+    },
+    {
+        "id": 11,
+        "name": "DiGiCo D2 Rack",
+        "quantity": 2,
+        "image": "./assets/images/D2.jpg",
+        "category": 3,
+        "unit": 2
+    },
+    {
+        "id": 12,
+        "name": "Shure P10T",
+        "quantity": 4,
+        "image": "./assets/images/P10T.png",
+        "category": 2,
+        "unit": 2
+    },
+    {
+        "id": 13,
+        "name": "Shure AD4D",
+        "quantity": 8,
+        "image": "./assets/images/AD4D.png",
+        "category": 5,
+        "unit": 2
+    },
+    {
+        "id": 14,
+        "name": "Sennheiser SR 2050",
+        "quantity": 8,
+        "image": "./assets/images/SR2050.png",
+        "category": 2,
+        "unit": 2
+    }
+]

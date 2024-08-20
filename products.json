@@ -3,60 +3,70 @@
         "id": 1,
         "name": "Micro Beta Three 2700",
         "quantity": 10,
-        "image": "./assets/images/Micro-Beta-Three-2700.png"
+        "image": "./assets/images/Micro-Beta-Three-2700.png",
+        "category": 1
     },
     {
         "id": 2,
         "name": "Micro Beta Three 280",
         "quantity": 20,
-        "image": "./assets/images/Micro-Beta-Three-280.png"
+        "image": "./assets/images/Micro-Beta-Three-280.png",
+        "category": 2
     },
     {
         "id": 3,
         "name": "Micro Beta Three 2800",
         "quantity": 30,
-        "image": "./assets/images/Micro-Beta-Three-2800.png"
+        "image": "./assets/images/Micro-Beta-Three-2800.png",
+        "category": 3
     },
     {
         "id": 4,
         "name": "Micro Dalasta 268",
         "quantity": 40,
-        "image": "./assets/images/Micro-Dalasta-268.png"
+        "image": "./assets/images/Micro-Dalasta-268.png",
+        "category": 4
     },
     {
         "id": 5,
         "name": "Micro không dây Shure UGX9 II",
         "quantity": 10,
-        "image": "./assets/images/Micro-khong-day-Shure-UGX9-II.png"
+        "image": "./assets/images/Micro-khong-day-Shure-UGX9-II.png",
+        "category": 5
     },
     {
         "id": 6,
         "name": "Vang Số Dalasta 350",
         "quantity": 15,
-        "image": "./assets/images/Vang-So-Dalasta-350.png"
+        "image": "./assets/images/Vang-So-Dalasta-350.png",
+        "category": 6
     },
     {
         "id": 7,
         "name": "Vang Số Dalasta 3000.png",
         "quantity": 25,
-        "image": "./assets/images/Vang-So-Dalasta-3000.png"
+        "image": "./assets/images/Vang-So-Dalasta-3000.png",
+        "category": 3
     },
     {
         "id": 8,
         "name": "Vang Số Dalasta DSP 680",
         "quantity": 35,
-        "image": "./assets/images/Vang-So-Dalasta-DSP-680.png"
+        "image": "./assets/images/Vang-So-Dalasta-DSP-680.png",
+        "category": 4
     },
     {
         "id": 9,
         "name": "Vang Số Dalasta X8",
         "quantity": 45,
-        "image": "./assets/images/Vang-So-Dalasta-X8.png"
+        "image": "./assets/images/Vang-So-Dalasta-X8.png",
+        "category": 5
     },
     {
         "id": 10,
         "name": "Vang Số HAS DX300",
         "quantity": 55,
-        "image": "./assets/images/Vang-So-HAS-DX300.png"
+        "image": "./assets/images/Vang-So-HAS-DX300.png",
+        "category": 6
     }
 ]
